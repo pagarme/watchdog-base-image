@@ -1,0 +1,11 @@
+tabulate
+pytz
+peewee==2.10.2
+peewee-async
+croniter
+asyncpg>=0.14
+aiohttp
+aiopg
+sanic
+sanic-cors
+async_lru
