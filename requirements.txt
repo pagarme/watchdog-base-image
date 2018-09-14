@@ -1,6 +1,6 @@
 tabulate
 pytz
-peewee==2.10.2
+peewee==3.7
 peewee-async
 croniter
 asyncpg>=0.14
