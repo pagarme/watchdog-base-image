@@ -3,7 +3,7 @@ pytz
 peewee==2.10.2
 peewee-async
 croniter
-asyncpg>=0.14
+asyncpg>=0.18.2
 aiohttp
 aiopg
 sanic
