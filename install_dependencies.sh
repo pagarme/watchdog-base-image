@@ -1,6 +1,9 @@
 #!/bin/sh
 set -ex
 
+# Update apk packages list  
+apk update
+
 # Install dependencies
 apk add --no-cache --virtual build-dependencies \
     gcc \
