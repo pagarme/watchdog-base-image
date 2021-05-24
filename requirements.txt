@@ -10,3 +10,5 @@ sanic==0.8.3
 sanic-cors==0.9.7
 Sanic-Plugins-Framework==0.7.0
 async_lru==1.0.1
+python-json-logger==0.1.11
+alembic==1.6.2
