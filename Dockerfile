@@ -1,4 +1,4 @@
-FROM python:3.6.4-alpine
+FROM python:3.8-alpine
 
 LABEL maintainer="pagarme"
 

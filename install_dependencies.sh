@@ -6,7 +6,8 @@ apk add --no-cache --virtual build-dependencies \
     gcc \
     python3-dev \
     musl-dev \
-    make
+    make \
+    g++
 # Install and keep psycopg2 dependency
 apk add postgresql-dev
 
